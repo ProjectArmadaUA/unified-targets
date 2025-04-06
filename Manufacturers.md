@@ -15,6 +15,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |ALWH|Alienwhoop|https://shop.alienwhoop.us/|
 |ANYL|AnyLeaf|https://www.anyleaf.org/|
 |APEX|Apexfpv|https://apexfpv.eu/|
+|ARMA|Project Armada|https://distributions.com.ua/brands/armada/|
 |AXFL|Axisflying|https://www.axisflying.com/|
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
